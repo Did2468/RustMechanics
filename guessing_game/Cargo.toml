@@ -1,0 +1,11 @@
+[package]
+name = "rust_rng"
+version = "0.1.0"
+edition = "2024"
+description = "A simple, lightweight random number generator for systems study."
+repository = "https://github.com/Did2468/RustMechanics"
+readme = "README.md"
+keywords = ["rng", "utility"]
+
+[dependencies]
+rand = "0.8.5"
